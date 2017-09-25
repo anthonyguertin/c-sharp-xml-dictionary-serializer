@@ -5,7 +5,7 @@ using System.Xml;
 using System.Xml.Schema;
 using System.Xml.Serialization;
 
-namespace SwiftExcel.Planswift.XmlSerializers
+namespace Serializers.XmlSerializers
 {
   [Serializable]
   [XmlRoot("dictionary")]
